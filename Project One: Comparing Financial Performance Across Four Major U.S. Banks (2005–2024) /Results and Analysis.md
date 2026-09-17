@@ -114,7 +114,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Return on Equity](figures/figure_01.png)
+![Return on Equity](figure_01.png)
 
 **INTERPRETATION:**
 
