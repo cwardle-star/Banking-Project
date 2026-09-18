@@ -141,7 +141,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Return on Assets](figures/figure_02.png)
+![Return on Assets](figure_02.png)
 
 **INTERPRETATION:**
 
@@ -170,7 +170,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Profit Margin](figures/figure_03.png)
+![Profit Margin](figure_03.png)
 
 **INTERPRETATION:**
 
@@ -198,7 +198,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Asset Turnover](figures/figure_04.png)
+![Asset Turnover](figure_04.png)
 
 **INTERPRETATION:**
 
@@ -226,7 +226,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Equity-to-Assets Ratio](figures/figure_05.png)
+![Equity-to-Assets Ratio](figure_05.png)
 
 **INTERPRETATION:**
 
@@ -254,7 +254,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Total Revenue](figures/figure_06.png)
+![Total Revenue](figure_06.png)
 
 **INTERPRETATION:**
 
@@ -281,7 +281,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Net Income](figures/figure_07.png)
+![Net Income](figure_07.png)
 
 **INTERPRETATION:**
 
