@@ -1,4 +1,4 @@
-# Project Three: Estimating Bank Profitability with Linear and Ridge Regression (2005-2024)
+# Project Three: Analyzing Bank Profitability with Linear and Ridge Regression (2005-2024)
 
 **INTRODUCTION:**
 
