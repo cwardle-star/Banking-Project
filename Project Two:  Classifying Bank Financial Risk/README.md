@@ -275,7 +275,7 @@ if __name__ == "__main__":
 
 **OVERALL LABEL DISTRIBUTION:**
 
-![Overall Label Distribution](figures/figure_01.png)
+![Overall Label Distribution](figure_01.png)
 
 **INTERPRETATION:**
 
@@ -283,7 +283,7 @@ The saved results label 68 observations (85%) Stable and 12 (15%) High-Risk. Thi
 
 **LABEL DISTRIBUTION BY BANK:**
 
-![Label Distribution by Bank](figures/figure_02.png)
+![Label Distribution by Bank](figure_02.png)
 
 **INTERPRETATION:**
 
@@ -291,7 +291,7 @@ High-Risk labels account for 15% of Bank of America observations, 30% of Citigro
 
 **BANK OF AMERICA ROA TIMELINE:**
 
-![Bank of America ROA Timeline](figures/figure_03.png)
+![Bank of America ROA Timeline](figure_03.png)
 
 **INTERPRETATION:**
 
@@ -299,7 +299,7 @@ Orange markers indicate that any labeling rule was met. Red outlines indicate a 
 
 **FOUR-BANK ROA TIMELINES:**
 
-![Four-Bank ROA Timelines](figures/figure_04.png)
+![Four-Bank ROA Timelines](figure_04.png)
 
 **INTERPRETATION:**
 
@@ -307,7 +307,7 @@ Shared axes support comparisons across banks. Markers distinguish the overall la
 
 **ROA BY CLASS:**
 
-![ROA by Class](figures/figure_05.png)
+![ROA by Class](figure_05.png)
 
 **INTERPRETATION:**
 
@@ -315,7 +315,7 @@ Median ROA is approximately 0.95% for Stable observations and 0.14% for High-Ris
 
 **ROE BY CLASS:**
 
-![ROE by Class](figures/figure_06.png)
+![ROE by Class](figure_06.png)
 
 **INTERPRETATION:**
 
@@ -323,7 +323,7 @@ Median ROE is approximately 9.88% for Stable observations and 1.73% for High-Ris
 
 **PROFIT MARGIN BY CLASS:**
 
-![Profit Margin by Class](figures/figure_07.png)
+![Profit Margin by Class](figure_07.png)
 
 **INTERPRETATION:**
 
@@ -331,7 +331,7 @@ Median profit margin is approximately 21.78% for Stable observations and 3.62% f
 
 **EQUITY-TO-ASSETS BY CLASS:**
 
-![Equity-to-Assets by Class](figures/figure_08.png)
+![Equity-to-Assets by Class](figure_08.png)
 
 **INTERPRETATION:**
 
@@ -339,7 +339,7 @@ Median equity-to-assets is approximately 9.57% for Stable observations and 9.09%
 
 **ASSET TURNOVER BY CLASS:**
 
-![Asset Turnover by Class](figures/figure_09.png)
+![Asset Turnover by Class](figure_09.png)
 
 **INTERPRETATION:**
 
@@ -347,7 +347,7 @@ Median asset turnover is approximately 0.042 for Stable observations and 0.040 f
 
 **NET INCOME BY CLASS:**
 
-![Net Income by Class](figures/figure_10.png)
+![Net Income by Class](figure_10.png)
 
 **INTERPRETATION:**
 
@@ -355,7 +355,7 @@ Median net income is 18,167.5 for Stable observations and 2,270 for High-Risk ob
 
 **FEATURE CORRELATION HEATMAP:**
 
-![Feature Correlation Heatmap](figures/figure_11.png)
+![Feature Correlation Heatmap](figure_11.png)
 
 **INTERPRETATION:**
 
@@ -363,7 +363,7 @@ The heatmap summarizes pairwise correlations. Related financial ratios and size 
 
 **YEAR-OVER-YEAR CHANGES BY CLASS:**
 
-![Year-over-Year Changes by Class](figures/figure_12.png)
+![Year-over-Year Changes by Class](figure_12.png)
 
 **INTERPRETATION:**
 
@@ -461,7 +461,7 @@ display(pd.DataFrame({"Metric":["Accuracy","ROC AUC","Avg Precision"],"Score":[a
 display(rep_df.round(3))
 ```
 
-![Random Forest Evaluation](figures/figure_13.png)
+![Random Forest Evaluation](figure_13.png)
 
 **EVALUATING THE MODELS:**
 
