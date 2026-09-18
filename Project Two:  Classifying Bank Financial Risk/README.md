@@ -494,4 +494,3 @@ This project demonstrates my ability to organize financial data, translate finan
 
 **REFERENCES:**
 
-The supplied Project Two notebook contains no references section. Its code names `Big4_Banks_2005_2024_labeled.csv` or `Big4_Banks_2005_2024_combined.csv` as input and produces `Big4_Banks_2005_2024_labeled_allrules.csv`. Charts and model results in this presentation are preserved from the original notebook’s saved outputs.
