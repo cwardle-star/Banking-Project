@@ -494,4 +494,8 @@ This project demonstrates my ability to organize financial data, translate finan
 
 **REFERENCES:**
 
-U.S. Securities and Exchange Commission. (n.d.). Search filings (EDGAR database). U.S. Securities and Exchange Commission. Retrieved September 29, 2025, from 
+U.S. Securities and Exchange Commission. (n.d.). Search filings (EDGAR database). U.S. Securities and Exchange Commission. Retrieved September 29, 2025, from https://www.sec.gov/search-filings
+
+Franck, T. (2022, December 27). How Bank of America came back from the brink of collapse. CNBC. Retrieved September 29, 2025, from https://www.cnbc.com/2022/12/27/how-bofa-came-back-from-the-brink-of-collapse.html
+
+Peters, R. (2015, June 28). A brief history of Bank of America in crisis. The Motley Fool. Retrieved September 29, 2025, from https://www.fool.com/investing/general/2015/06/28/a-brief-history-of-bank-of-america-in-crisis.aspx
