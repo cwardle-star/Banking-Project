@@ -494,3 +494,4 @@ This project demonstrates my ability to organize financial data, translate finan
 
 **REFERENCES:**
 
+U.S. Securities and Exchange Commission. (n.d.). Search filings (EDGAR database). U.S. Securities and Exchange Commission. Retrieved September 29, 2025, from 
